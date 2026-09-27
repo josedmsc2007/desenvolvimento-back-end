@@ -59,3 +59,4 @@ GET /api/contatos?nome=an&favorito=true
 O campo `id` **nao precisa ser enviado** no POST - ele e gerado
 automaticamente pelo servidor.
 
+##USADO IA apenas para fazer o Readme, para a professora entender melhor como é a nossa API.
